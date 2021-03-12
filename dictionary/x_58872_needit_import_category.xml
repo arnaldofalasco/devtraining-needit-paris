@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="Import_category" max_length="40" name="x_58872_needit_import_category" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=document" label="document" max_length="87" name="u_document" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=full_category" label="full_category" max_length="173" name="u_full_category" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=label" label="label" max_length="67" name="u_label" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=ParentID" label="ParentID " max_length="40" name="u_parentid" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Parent table" label="Parent table " max_length="40" name="u_parent_table" type="string"/>
+    </element>
+</database>
